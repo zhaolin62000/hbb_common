@@ -118,7 +118,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["www.gele.eu.org"];
-pub const RS_PUB_KEY: &str = "F1FDNZ8HS7uFVOGKEiYfP4qRHk9n80OmJnYIH2gMI=";
+pub const RS_PUB_KEY: &str = "SAbdXbmkULZxwDbmEFPDoQqMryVkmZ3OXAuBdgr3M=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
