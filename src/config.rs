@@ -117,7 +117,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.huize.eu.org"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rd.gele.eu.org"];
 pub const RS_PUB_KEY: &str = "SAbdXbmkULZxwDbmEFPDssoQqMryVkmZ3OXAuBdgr3M=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
